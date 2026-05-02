@@ -1,0 +1,14 @@
+# Ignore all CSV files in data folder
+data/*.csv
+
+*.csv
+
+# Optional: ignore all CSVs everywhere
+# *.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings (optional)
+.vscode/

@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+seaborn
+matplotlib
+<<<<<<< HEAD
+pymongo
+=======
+>>>>>>> 2b5e2f79b28ca8a91fbc6df2f6721cb246586fb8
